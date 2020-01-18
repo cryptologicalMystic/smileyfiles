@@ -280,10 +280,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568542"
-     inkscape:cx="26.321545"
-     inkscape:cy="348.91259"
+     inkscape:cx="118.47103"
+     inkscape:cy="37.341636"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="px"
      inkscape:window-width="1366"
@@ -814,7 +814,7 @@
          id="tspan1125"
          x="17.991667"
          y="78.84584"
-         style="stroke-width:0.26458332">- Signs point to babey.</tspan><tspan
+         style="stroke-width:0.26458332">- Signs point to away from babey.</tspan><tspan
          sodipodi:role="line"
          x="17.991667"
          y="81.491676"
@@ -856,5 +856,10 @@
            id="tspan4870"
            sodipodi:role="line">(click here)</tspan></text>
     </a>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 30.162501,78.316669 h 2.116666"
+       id="path5326"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
