@@ -6,7 +6,19 @@ body {
 }
 
 .patahide-w {
-	color:#ffffff;
+	color:#f0f0f0;
+}
+
+.patahide-w:hover {
+	color:#ff0000;
+}
+
+.patahide-b {
+	color:#0f0f0f;
+}
+
+.patahide-w:hover {
+	color:#ff0000;
 }
 
 a {
