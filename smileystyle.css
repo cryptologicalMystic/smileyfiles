@@ -5,22 +5,47 @@ body {
 	max-width: 700px;
 }
 
+a {
+	color:#ff8080;
+}
+
 .patahide-w {
-	color:#f0f0f0;
+	color:#fff0f0;
 }
 
 .patahide-w:hover {
 	color:#ff0000;
+}
+
+a.patahide-w {
+	color:#ffe1e1;
+}
+
+a.patahide-w:hover {
+	color:#ff8080;
 }
 
 .patahide-b {
-	color:#0f0f0f;
+	color:#0f0000;
 }
 
-.patahide-w:hover {
+.patahide-b:hover {
 	color:#ff0000;
 }
 
-a {
-	color:inherit;
+a.patahide-b {
+	color:#1e0000;
+}
+
+a.patahide-b:hover {
+	color:#ff8080;
+}
+
+.strike {
+	text-decoration: line-through;
+}
+
+.white {
+	text-decoration: line-through;
+	color:#ffffff;
 }
